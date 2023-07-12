@@ -28,3 +28,7 @@ This project is licensed under the MIT License.
 
 Acknowledgments
 Special thanks to in28minutes for creating the course that inspired this project and providing valuable learning resources.
+![Capture d'écran 2023-07-12 164933](https://github.com/AhmedSafta71/Spring_toDoList_App/assets/101677256/97e9d87e-954f-4637-9fcb-a4e9683fb116)
+![Capture d'écran 2023-07-12 164955](https://github.com/AhmedSafta71/Spring_toDoList_App/assets/101677256/5706a093-701d-4a30-b5d7-8d33ddcb38bb)
+![Capture d'écran 2023-07-12 163406](https://github.com/AhmedSafta71/Spring_toDoList_App/assets/101677256/8cad49e3-20ae-4d46-986d-f9a9cfa9299a)
+
